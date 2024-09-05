@@ -13,8 +13,11 @@ I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity
 | SIEM Implementation and Log Analysis          | [To be added]              |
 | Network Traffic Monitoring and Attack Detection | [Malicious Web Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis)|
 | Python Scripting for Encryption/Decryption    | [Caesar Cipher](https://github.com/Ryan-Wachira/caesar-cipher), [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker), [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher), [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher)|
-| Security Awareness Training                   | [Mastercard Cybersecurity Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_psZHeticFarprmhDx_1724159923077_completion_certificate.pdf)|
-| Incident Response and Data Breach Strategy    | [Clifford Chance Cybersecurity Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Clifford%20Chance/33CKX5eTKH3dXer7X_Clifford%20Chance_psZHeticFarprmhDx_1723320421441_completion_certificate.pdf)|
+| Security Awareness Training                   | [Mastercard Cybersecurity Program](https://github.com/Ryan-Wachira/MasterCard-Cybersecurity-Virtual-Internship)|
+| Incident Response and Data Breach Strategy    | [Clifford Chance Cybersecurity Simulation](https://github.com/Ryan-Wachira/Clifford-Chance-Cybersecurity-Virtual-Internship)|
+| Malware Analysis and Mitigation               | [Telstra Cybersecurity Virtual Internship Program](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship)|
+| Phishing Simulation Design and Analysis       | [Phishing Email Analysis](https://github.com/Ryan-Wachira/Phishing-Email-Analysis)|
+
 
 ## Tools
 
@@ -42,6 +45,8 @@ I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Networking_Basics-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Crowdsec_Cyberthreat_Intelligence-001D57?&style=for-the-badge&logo=Crowdsec&logoColor=white" />
+
 </div>
 
 ## Projects
@@ -50,5 +55,7 @@ I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity
 - [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher)
 - [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher)
 - [Malware Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis)
-- [Mastercard Cybersecurity Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_psZHeticFarprmhDx_1724159923077_completion_certificate.pdf)
-- [Clifford Chance Cybersecurity Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Clifford%20Chance/33CKX5eTKH3dXer7X_Clifford%20Chance_psZHeticFarprmhDx_1723320421441_completion_certificate.pdf)
+- [Mastercard Cybersecurity Program](https://github.com/Ryan-Wachira/MasterCard-Cybersecurity-Virtual-Internship)
+- [Clifford Chance Cybersecurity Simulation](https://github.com/Ryan-Wachira/Clifford-Chance-Cybersecurity-Virtual-Internship)
+- [Telstra Cybersecurity Virtual Internship Program](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship)
+- [Phishing Email Analysis](https://github.com/Ryan-Wachira/Phishing-Email-Analysis)
