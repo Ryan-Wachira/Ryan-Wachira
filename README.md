@@ -11,11 +11,11 @@ I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [LetsDefend SIEM Phishing Analysis](https://github.com/Ryan-Wachira/letsdefend-siem-soc140-event82), [LetsDefend SIEM SQL Injection Analysis](https://github.com/Ryan-Wachira/SIEM-SQL-Injection-Incident), [LetsDefend SIEM XSS Analysis](https://github.com/Ryan-Wachira/LetsDefend-SOC-XSS-Detection),  [LetsDefend SIEM Malware Analysis](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC104-EventID36)  |
-| Network Traffic Monitoring and Attack Detection | [Malicious Web Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis)|
+| Network Traffic Monitoring and Attack Detection | [Malicious Web Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis), [Web Attack Analysis](https://github.com/Ryan-Wachira/LetsDefend-Web-Attack-Investigation) |
 | Python Scripting for Encryption/Decryption    | [Caesar Cipher](https://github.com/Ryan-Wachira/caesar-cipher), [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker), [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher), [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher)|
 | Security Awareness Training                   | [Mastercard Cybersecurity Program](https://github.com/Ryan-Wachira/MasterCard-Cybersecurity-Virtual-Internship)|
 | Incident Response and Data Breach Strategy    | [Clifford Chance Cybersecurity Simulation](https://github.com/Ryan-Wachira/Clifford-Chance-Cybersecurity-Virtual-Internship)|
-| Malware Analysis and Mitigation               | [Telstra Cybersecurity Virtual Internship Program](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship)|
+| Malware Analysis and Mitigation               | [Telstra Cybersecurity Virtual Internship Program](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship), [LetsDefend SIEM Malware Analysis](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC104-EventID36) |
 | Phishing Simulation Design and Analysis       | [Phishing Email Analysis](https://github.com/Ryan-Wachira/Phishing-Email-Analysis)|
 
 
@@ -63,3 +63,4 @@ I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity
 - [LetsDefend SIEM SQL Injection Analysis](https://github.com/Ryan-Wachira/SIEM-SQL-Injection-Incident)
 - [LetsDefend SIEM XSS Analysis](https://github.com/Ryan-Wachira/LetsDefend-SOC-XSS-Detection)
 - [LetsDefend SIEM Malware Analysis](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC104-EventID36)
+- [Web Attack Analysis](https://github.com/Ryan-Wachira/LetsDefend-Web-Attack-Investigation)
