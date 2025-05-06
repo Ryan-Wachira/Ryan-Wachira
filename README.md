@@ -5,7 +5,7 @@ I hold a Bachelor's degree in Telecommunication and IT with a strong interest in
 
 
 ## Objective
-To build a career in cybersecurity with a focus on threat detection, network security, and cloud-based security solutions. I aim to contribute to Security Operations Centers (SOC) by leveraging my skills in incident response and securing digital infrastructure.
+To build a career in cybersecurity with a focus on threat detection, network security and cloud-based security solutions. I aim to contribute to Security Operations Centers (SOC) by leveraging my skills in incident response and securing digital infrastructure.
 
 ## Skills
 
