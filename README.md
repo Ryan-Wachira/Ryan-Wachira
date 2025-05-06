@@ -1,10 +1,11 @@
 # Hello, I'm Ryan Wachira
 <a href="https://www.linkedin.com/in/ryan-wachira-28a856251/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a final-year student at Kenyatta University, pursuing a Bachelor’s degree in Telecommunication and IT, with a deep passion for cybersecurity. My journey in IT has led me to focus on developing technical projects and writing detailed documentation to help secure digital spaces.
+I hold a Bachelor's degree in Telecommunication and IT with a strong interest in cybersecurity. I focus on building technical projects and creating clear documentation to support secure and reliable digital systems.
+
 
 ## Objective
-I aim to build a career in cybersecurity, specifically as a Junior Cybersecurity Analyst. My goal is to contribute to Security Operations Centers (SOC) by applying my skills in threat detection, incident response, and network security.
+I aim to build a career in cybersecurity, specifically as a Cybersecurity Analyst. My goal is to contribute to Security Operations Centers (SOC) by applying my skills in threat detection, incident response, and network security.
 
 ## Skills
 
