@@ -1,11 +1,11 @@
 # Hello, I'm Ryan Wachira
 <a href="https://www.linkedin.com/in/ryan-wachira-28a856251/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I hold a Bachelor's degree in Telecommunication and IT with a strong interest in cybersecurity. I focus on building technical projects and creating clear documentation to support secure and reliable digital systems.
+I hold a Bachelor's degree in Telecommunication and IT with a strong interest in cybersecurity, computer networks, and cloud technologies. I focus on building technical projects and creating clear documentation to support secure and reliable digital systems.
 
 
 ## Objective
-I aim to build a career in cybersecurity, specifically as a Cybersecurity Analyst. My goal is to contribute to Security Operations Centers (SOC) by applying my skills in threat detection, incident response, and network security.
+To build a career in cybersecurity with a focus on threat detection, network security, and cloud-based security solutions. I aim to contribute to Security Operations Centers (SOC) by leveraging my skills in incident response and securing digital infrastructure.
 
 ## Skills
 
