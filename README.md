@@ -1,5 +1,5 @@
 # Hello, I'm Ryan Wachira
-<a href="https://www.linkedin.com/in/ryan-wachira-28a856251/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ryan-wachira"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I hold a Bachelor's degree in Telecommunication and IT with a strong interest in cybersecurity, computer networks, and cloud technologies. I focus on building technical projects and creating clear documentation to support secure and reliable digital systems.
 
