@@ -70,37 +70,37 @@ To build a career in cybersecurity with a focus on threat detection, network sec
 
 ## Projects & CTFs
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; justify-content: space-between;">
 
-      <h3>Projects</h3>
+<div>
 
-      - [Caesar Cipher](https://github.com/Ryan-Wachira/caesar-cipher)  
-      - [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker)  
-      - [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher)  
-      - [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher)  
-      - [Malware Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis)  
-      - [Mastercard Cybersecurity Program](https://github.com/Ryan-Wachira/MasterCard-Cybersecurity-Virtual-Internship)  
-      - [Clifford Chance Cybersecurity Simulation](https://github.com/Ryan-Wachira/Clifford-Chance-Cybersecurity-Virtual-Internship)  
-      - [Telstra Cybersecurity Virtual Internship](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship)  
-      - [Phishing Email Analysis](https://github.com/Ryan-Wachira/Phishing-Email-Analysis)  
-      - [LetsDefend SIEM Phishing Analysis](https://github.com/Ryan-Wachira/letsdefend-siem-soc140-event82)  
-      - [LetsDefend SIEM SQL Injection Analysis](https://github.com/Ryan-Wachira/SIEM-SQL-Injection-Incident)  
-      - [LetsDefend SIEM XSS Analysis](https://github.com/Ryan-Wachira/LetsDefend-SOC-XSS-Detection)  
-      - [LetsDefend SIEM Malware Analysis](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC104-EventID36)  
-      - [Web Attack Analysis](https://github.com/Ryan-Wachira/LetsDefend-Web-Attack-Investigation)  
-      - [LetsDefend SIEM Malware Analysis 2](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC145-EventID92)  
+### Projects
+- [Caesar Cipher](https://github.com/Ryan-Wachira/caesar-cipher)
+- [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker)
+- [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher)
+- [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher)
+- [Malware Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis)
+- [Mastercard Cybersecurity Program](https://github.com/Ryan-Wachira/MasterCard-Cybersecurity-Virtual-Internship)
+- [Clifford Chance Cybersecurity Simulation](https://github.com/Ryan-Wachira/Clifford-Chance-Cybersecurity-Virtual-Internship)
+- [Telstra Cybersecurity Virtual Internship](https://github.com/Ryan-Wachira/Telstra-Cybersecurity-Virtual-Internship)
+- [Phishing Email Analysis](https://github.com/Ryan-Wachira/Phishing-Email-Analysis)
+- [LetsDefend SIEM Phishing Analysis](https://github.com/Ryan-Wachira/letsdefend-siem-soc140-event82)
+- [LetsDefend SIEM SQL Injection Analysis](https://github.com/Ryan-Wachira/SIEM-SQL-Injection-Incident)
+- [LetsDefend SIEM XSS Analysis](https://github.com/Ryan-Wachira/LetsDefend-SOC-XSS-Detection)
+- [LetsDefend SIEM Malware Analysis](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC104-EventID36)
+- [Web Attack Analysis](https://github.com/Ryan-Wachira/LetsDefend-Web-Attack-Investigation)
+- [LetsDefend SIEM Malware Analysis 2](https://github.com/Ryan-Wachira/LetsDefend-SIEM-SOC145-EventID92)
 
-    </td>
-    <td valign="top" width="50%">
+</div>
 
-      <h3>CTF Writeups</h3>
+<div>
 
-      - [Log Hunt (picoCTF)](https://github.com/Ryan-Wachira/log-hunt-picoctf)  
-      
+### CTF Writeups
+- [Log Hunt (picoCTF)](https://github.com/Ryan-Wachira/log-hunt-picoctf)
 
-    </td>
-  </tr>
-</table>
+
+</div>
+
+</div>
+
 
