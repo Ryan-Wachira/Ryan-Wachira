@@ -56,7 +56,7 @@ To build a career in cybersecurity with a focus on threat detection, network sec
 | **Projects** | **CTF Writeups** |
 |-----------------|--------------------|
 | [Caesar Cipher](https://github.com/Ryan-Wachira/caesar-cipher) | [Log Hunt (picoCTF)](https://github.com/Ryan-Wachira/log-hunt-picoctf) |
-| [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker) | *(More coming soon...)* |
+| [Caesar Cipher Hacker](https://github.com/Ryan-Wachira/caesar-cipher-hacker) | [Permissions (picoCTF)](https://github.com/Ryan-Wachira/Permissions-picoCTF) |
 | [Rot-13 Cipher](https://github.com/Ryan-Wachira/rot13-cipher) |  |
 | [Vigenere Cipher](https://github.com/Ryan-Wachira/Vigenere_Cipher) |  |
 | [Malware Traffic Analysis](https://github.com/Ryan-Wachira/Malicious-Web-Traffic-Analysis) |  |
